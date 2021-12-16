@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Paulo-Pinto (He/Him), 20yo student from Portugal!
-- 👀 I study *Engenharia Informática* at ULHT, in Lisbon, Portugal (2nd year out of 3)
+- 👋 Hi, I’m @Paulo-Pinto (He/Him), 21yo student from Portugal!
+- 👀 I study *Engenharia Informática* at ULHT, in Lisbon, Portugal (3rd year out of 3)
+- 🧫 Working on a Multi-Agent Based Model to study online inter-group interactions, for my final project
 - 🌱 I’m currently learning how to be a better programmer, with a special interest in small python programs, some of which you can find on my repos!
 - ✍ I'm fluent in Portuguese and English and would like to work abroad when I finish my degree
 - 📫 paulopintodigital@gmail.com / https://portfoliopaulopintocc.netlify.app/
